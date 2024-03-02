@@ -1,1 +1,2 @@
 This is the updated file from before to test the pull request
+Hello, how are you?
